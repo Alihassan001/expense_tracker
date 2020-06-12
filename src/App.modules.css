@@ -7,7 +7,7 @@
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: #f7f1e3;
+  background: linear-gradient(to bottom, #f7f8f8, #acbb78);
 }
 
 .app {

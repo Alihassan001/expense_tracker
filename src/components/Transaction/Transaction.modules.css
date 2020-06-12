@@ -1,0 +1,24 @@
+.minus {
+    border-right: 5px solid rgba(255, 0, 0, 0.5);
+    margin-bottom: 5px;
+}
+
+.plus {
+    border-right: 5px solid rgba(0, 255, 0, 0.5);
+    margin-bottom: 5px;
+}
+
+.button {
+    background-color: rgba(255, 0, 0, 0.5);;
+    border: none;
+    margin-right: 5px;
+}
+
+.btnContainer {
+    display: flex;
+}
+
+.button:hover {
+    background-color: rgb(255, 0, 0);
+    color: #fff;
+}
