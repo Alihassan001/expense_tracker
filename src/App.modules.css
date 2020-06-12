@@ -1,0 +1,17 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f7f1e3;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}

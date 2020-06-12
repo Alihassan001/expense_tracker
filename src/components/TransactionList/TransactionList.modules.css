@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+}
+
+.transactionContainer {
+    margin-bottom: 10px;
+}
+
+.transactionTile {
+    border-bottom: 1px solid grey;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 5px;
+    box-shadow: 0px 1px 6px 0px grey;
+}

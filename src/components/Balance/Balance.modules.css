@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+}
+
+.balanceContainer {
+    margin-bottom: 10px;
+}
+
+.title  {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.amount {
+    color: red;
+}

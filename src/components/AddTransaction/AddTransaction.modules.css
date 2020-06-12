@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+}
+
+.addTransactionContainer {
+    margin-bottom: 20px;
+}
+
+.addTransactionTile {
+    border-bottom: 1px solid grey;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.inputField {
+    width: 95%;
+    border: 1px solid grey;
+    padding: 5px 5px;
+    margin-bottom: 10px;
+}
+
+.inputTitle {
+    font-weight: bold;
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+
+.amountDesc {
+    font-size: 10px;
+    padding-bottom: 5px;
+}
+
+.submitBtn {
+    border: none;
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: bold;
+}
